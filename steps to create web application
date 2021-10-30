@@ -1,0 +1,6 @@
+Step 1: create the environment variable
+        [just copy the python script path (ex: C:\Users\user\.spyder-py3) to environment variable]
+Step 2: Create index file in template folder (ex: C:\Users\user\.spyder-py3\templates)
+Step 3: Create pyhthon file app3.py ((ex: C:\Users\user\.spyder-py3\app3.py)
+Step 4: Open command prompt (cmd) and move to pyhton script folder (ex: C:\Users\user\.spyder-py3)
+Step 5: Now run /call the app3.py file in command prompt
